@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import faculty from "../assets/images/faculty.jpg";
+import faculty from "../bundle/begula.jpg";
 
 const canvas = document.querySelector("#canvas");
 const size = {
